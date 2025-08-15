@@ -1,0 +1,9 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "pack1",
+      "name": "Mi Primer Pack",
+      "json_url": "https://raw.githubusercontent.com/KetchupAnimation/StickerApp_N/blob/main/pack1/contents.json
+    }
+  ]
+}
